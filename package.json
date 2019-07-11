@@ -21,7 +21,7 @@
     "async": "0.2.x",
     "colors": "0.6.x",
     "commander": "1.1.x",
-    "librato-node": "^4.1.0",
+    "librato-node": "^5.0.3",
     "tab": "0.1.x",
     "sugar": "1.3.8",
     "ws": "1.1.x"
